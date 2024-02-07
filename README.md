@@ -11,7 +11,7 @@
 * Product cards with images, titles
 
 ## How to Use
-* Clone the repository: git clone https://github.com/your-username/amazon-clone.git
+* Clone the repository: git clone https://github.com/brahmanand09/amazon-clone.git
 *( Open index.html in your web browser.
 
 ## Screenshots
